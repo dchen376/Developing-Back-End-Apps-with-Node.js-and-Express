@@ -52,6 +52,20 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 ![image](https://github.com/user-attachments/assets/818c045e-9df3-4280-8737-87b76f4705d1)
 
 ### Introduction to Node.js
+![image](https://github.com/user-attachments/assets/4a686fc7-feb9-41b7-b0c5-85c24de3de05)
+![image](https://github.com/user-attachments/assets/ac2efdd4-30b0-4671-bacc-0d432ef970a0)
+![image](https://github.com/user-attachments/assets/dc32a542-5ccf-42b1-84bd-4ad13e37b738)
+![image](https://github.com/user-attachments/assets/3f1042c2-c7c3-43a1-b380-821d615fec46)
+
+![image](https://github.com/user-attachments/assets/f7a9f9a8-1719-4ed9-bd90-a7ba5528de1e)
+![image](https://github.com/user-attachments/assets/6908287b-f050-4262-beaf-f64afbd3d850)
+
+![image](https://github.com/user-attachments/assets/4c43681e-8af0-4a7f-a603-a91e878d4dda)
+
+![image](https://github.com/user-attachments/assets/8a80bad5-4606-4ee6-88a3-78989d2df12b)
+
+
+
 
 
 ## M2 - Asynchronous I/O with callback programming
