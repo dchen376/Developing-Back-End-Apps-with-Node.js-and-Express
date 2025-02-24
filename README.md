@@ -89,8 +89,44 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
  ![image](https://github.com/user-attachments/assets/82835119-12d0-40c4-b06f-b3405eacb9e4)
 
 
+#### Introduction to Server-Side JavaScript
+![image](https://github.com/user-attachments/assets/c27b5afe-ec13-408c-98fb-3836cae26b2e)
+![image](https://github.com/user-attachments/assets/e8a03c55-e9dd-4f9b-891d-f654ee1838fe)
 
+- server-side javascript, node.js applications
+![image](https://github.com/user-attachments/assets/bfac867a-f5e9-47c0-80a7-ceeff6a03127)
 
+![image](https://github.com/user-attachments/assets/df12d34d-967c-4085-a654-4c86632af5d1)
+
+### Creating a Web Server with Node.js
+![image](https://github.com/user-attachments/assets/4281b6de-2157-4dff-be47-21b92c28173e)
+![image](https://github.com/user-attachments/assets/362ae7a4-8129-4eae-b74f-4fc187ca3e15)
+
+- node.js modules
+  ![image](https://github.com/user-attachments/assets/8b3119d3-51b8-46f8-92ea-3f4a87eaab5a)
+
+- http Node.js module
+  ![image](https://github.com/user-attachments/assets/bec0df2a-b85f-4101-aa84-f561e4e28c7d)
+
+### Working with Node.js Modules
+![image](https://github.com/user-attachments/assets/6e9ade04-f08d-410a-a675-724afc45dee0)
+
+- package.json (details about a Node.js module) -> index.js
+  ![image](https://github.com/user-attachments/assets/aa8964ff-c780-491e-8574-30631b872548)
+![image](https://github.com/user-attachments/assets/53d2f3b4-68e3-4f9c-a442-647f9bdb875e)
+
+![image](https://github.com/user-attachments/assets/7b46ce96-a7fb-4fd7-972f-8eab1cf0e198)
+
+![image](https://github.com/user-attachments/assets/6ca2aef3-984f-41c3-9bbd-833c0db18050)
+![image](https://github.com/user-attachments/assets/330cbdb4-0f3e-48f0-88a3-7dd9cfca98e3)
+
+![image](https://github.com/user-attachments/assets/0180e558-5b0c-4ad6-9ded-0ad9b1190f2b)
+
+![image](https://github.com/user-attachments/assets/8a8d80aa-e9ed-4019-9095-3cac60f76a8e)
+
+![image](https://github.com/user-attachments/assets/0dadc223-585b-4223-b0ee-abf53fbcb90d)
+
+### Advanced Node.js Modules
 
 
 
