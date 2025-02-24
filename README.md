@@ -175,7 +175,21 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 ## M2 - Asynchronous I/O with callback programming
 ![image](https://github.com/user-attachments/assets/4c057040-1cc5-4908-b14e-8ad6776c8004)
 
+### Asynchronous I/O with Callback Programming
+![image](https://github.com/user-attachments/assets/dadcb4db-ec30-409e-87f7-27188200a209)
+![image](https://github.com/user-attachments/assets/6815b040-b6de-46c5-a4d5-ef85b3ed658f)
 
+-callback (purpose is to handle two event! ==> request.on_data & request.on_end)
+![image](https://github.com/user-attachments/assets/b1c9e347-840c-4de0-8d79-9f4c8660be09)
+![image](https://github.com/user-attachments/assets/7163b412-c6e5-4be0-99a5-72cfdec52177)
+
+![image](https://github.com/user-attachments/assets/f991984f-ce7f-49ce-af26-cb6565e5584e)
+![image](https://github.com/user-attachments/assets/675a4ba6-c541-4227-b854-9f2dcdc6eedc)
+![image](https://github.com/user-attachments/assets/b19dd2da-3981-4ce4-b26f-880fc92aa30f)
+![image](https://github.com/user-attachments/assets/b7170453-4cd9-4072-b88c-ee68c5a06a3e)
+
+![image](https://github.com/user-attachments/assets/a7552046-748d-458d-ab63-14d8495aac7f)
+![image](https://github.com/user-attachments/assets/d4890807-b00d-45d2-bfa2-92ebd485c408)
 
 
 
