@@ -127,6 +127,24 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 ![image](https://github.com/user-attachments/assets/0dadc223-585b-4223-b0ee-abf53fbcb90d)
 
 ### Advanced Node.js Modules
+#### core, local and third-party modules
+-  three types of Node.js modules
+![image](https://github.com/user-attachments/assets/438b32ce-060d-486b-8ca8-00597ec75e67)
+![image](https://github.com/user-attachments/assets/29afc666-68e1-4962-b1f6-caf069cdf2ab)
+
+- core modules
+![image](https://github.com/user-attachments/assets/c10c545e-7cee-4c98-802f-303145faf7a5)
+
+![image](https://github.com/user-attachments/assets/b39a7dc1-3e82-4c0a-bb6f-b93c4e872278)
+![image](https://github.com/user-attachments/assets/4d8ce1ab-7e3b-4d74-ad16-4451ffc0f3bf)
+![image](https://github.com/user-attachments/assets/c25afd7a-9dad-4fc5-8abf-205763ce5d97)
+![image](https://github.com/user-attachments/assets/e4ba9974-cda0-4c4d-af34-2a88b42732be)
+![image](https://github.com/user-attachments/assets/4188e279-97a4-48ff-8b0e-03625b753678)
+![image](https://github.com/user-attachments/assets/c826a1b9-d0ce-4819-ba75-5ffd6d64dd77)
+![image](https://github.com/user-attachments/assets/48def455-6eac-4f91-b1b6-7f9b5551eb8f)
+
+- third-parties
+  ![image](https://github.com/user-attachments/assets/bca18018-fae8-4c6c-8efc-12cd88748e65)
 
 
 
