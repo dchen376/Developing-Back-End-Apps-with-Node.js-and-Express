@@ -147,6 +147,30 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
   ![image](https://github.com/user-attachments/assets/bca18018-fae8-4c6c-8efc-12cd88748e65)
 
 
+### Overview of Node Package Manager
+![image](https://github.com/user-attachments/assets/5ac77d42-28d6-48df-a315-0bc07026ce8b)
+
+![image](https://github.com/user-attachments/assets/5beb4bfa-cb06-4613-b3ec-3d011e333242)
+
+-dependencies
+![image](https://github.com/user-attachments/assets/2f71032f-932b-4691-81e4-a39cb4e70b29)
+
+![image](https://github.com/user-attachments/assets/0bd9dd4a-e64a-4c5e-88a9-3ddcf97992fd)
+
+![image](https://github.com/user-attachments/assets/e03bb6fd-6d92-431a-8018-c3749248e7ff)
+
+- package.json
+  ![image](https://github.com/user-attachments/assets/1490551e-954d-48fa-a6d6-702276606c6f)
+
+- local install
+![image](https://github.com/user-attachments/assets/82876312-3240-4a06-8749-fe6c3b5ad9d9)
+![image](https://github.com/user-attachments/assets/b52d5f7b-a97b-4cce-b09d-f861dbdc19c9)
+
+- global install
+  ![image](https://github.com/user-attachments/assets/42a0f2ea-b555-422b-8d63-bc31290abb15)
+![image](https://github.com/user-attachments/assets/52e254b2-faa2-44ed-b4db-ec0bf6316daa)
+
+
 
 
 
