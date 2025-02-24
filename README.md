@@ -68,8 +68,25 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 
 ![image](https://github.com/user-attachments/assets/22716679-631c-4f83-92a6-6ecf3740dc37)
 ![image](https://github.com/user-attachments/assets/cedc3595-104b-4547-92e2-ac00187e1861)
-![image](https://github.com/user-attachments/assets/a2966178-0287-411f-b519-f302bd225eb0)
 ![image](https://github.com/user-attachments/assets/88c302d1-0ab7-44c5-88a7-20acb58f716e)
+![image](https://github.com/user-attachments/assets/835ac7b9-2493-4400-a84f-b90fbb894477)
+![image](https://github.com/user-attachments/assets/daab6535-0c8b-45a1-bd9f-052412319c14)
+
+### Import and Require
+![image](https://github.com/user-attachments/assets/f10f7d6a-b7a5-4c3f-a9d0-e8b250c0fa38)
+![image](https://github.com/user-attachments/assets/abe94519-5435-47a4-be31-378ca58fb025)
+
+#### commonJS and ES
+![image](https://github.com/user-attachments/assets/9777a17e-890c-4122-a32b-6973ae2d1aaf)
+![image](https://github.com/user-attachments/assets/6ef918bc-a60b-4369-ad36-8abb01c9d4f4)
+![image](https://github.com/user-attachments/assets/47eb7586-3921-4be6-9bfd-6545a4fe49d8)
+![image](https://github.com/user-attachments/assets/80952151-be4c-4d92-b768-e3689af12a14)
+![image](https://github.com/user-attachments/assets/da6d5cd0-aa09-4da6-889e-b085353fe02c)
+
+![image](https://github.com/user-attachments/assets/f3c55854-8f1a-4bef-bb5f-5a017638d8b8)
+(import() here runs faster)
+
+ ![image](https://github.com/user-attachments/assets/82835119-12d0-40c4-b06f-b3405eacb9e4)
 
 
 
