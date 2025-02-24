@@ -191,6 +191,22 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 ![image](https://github.com/user-attachments/assets/a7552046-748d-458d-ab63-14d8495aac7f)
 ![image](https://github.com/user-attachments/assets/d4890807-b00d-45d2-bfa2-92ebd485c408)
 
+### Creating Callback Functions
+![image](https://github.com/user-attachments/assets/b74af18d-633b-4e59-92b4-1db2690ba244)
+![image](https://github.com/user-attachments/assets/3ac227ec-2965-48ea-bb21-300bd3b2d24a)
+
+![image](https://github.com/user-attachments/assets/c7e95111-9e19-46af-b8ca-de5458113637)
+
+![image](https://github.com/user-attachments/assets/936dfe71-6b23-4efc-a1b1-deceb23e4e96)
+![image](https://github.com/user-attachments/assets/10b2b676-8243-4782-8301-7e58e6224f98)
+![image](https://github.com/user-attachments/assets/a54e2661-e1a3-4c0b-918f-7e35195d7b0e)
+![image](https://github.com/user-attachments/assets/3b11e127-87e3-4c7c-8429-fbd85b9eabb3)
+![image](https://github.com/user-attachments/assets/376fe69b-104c-44a1-ab98-b99e11acb637)
+
+![image](https://github.com/user-attachments/assets/1e926644-f0ae-487c-a5b1-0195e46b48f4)
+![image](https://github.com/user-attachments/assets/55ad95fc-8f9c-4ae5-9d3a-03ff0f863976)
+
+![image](https://github.com/user-attachments/assets/a1a97ea8-cacf-4ed0-9be2-fb23072e25e9)
 
 
 
