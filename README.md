@@ -172,10 +172,16 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 
 
 
-
-
-
 ## M2 - Asynchronous I/O with callback programming
+![image](https://github.com/user-attachments/assets/4c057040-1cc5-4908-b14e-8ad6776c8004)
+
+
+
+
+
+
+
+
 
 ## M3 - Express Web Application Framework
 
