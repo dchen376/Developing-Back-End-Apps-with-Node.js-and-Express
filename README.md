@@ -241,9 +241,17 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 
 ![image](https://github.com/user-attachments/assets/8b87a61a-099a-46cd-9bcb-33527f2f5e59)
 
+### Working with JSON
+![image](https://github.com/user-attachments/assets/da8ea162-b632-4bfe-ad4a-a04eca2430da)
+![image](https://github.com/user-attachments/assets/3a041b6f-5668-4d39-aee2-b2298076ed34)
 
+- parse()
+![image](https://github.com/user-attachments/assets/1f681986-71c6-431d-a99a-057053830fa0)
 
+- stringify()
+![image](https://github.com/user-attachments/assets/d535fdc3-3e49-41fd-aab2-613c43d5ad7e)
 
+ 
 
 
 
