@@ -264,8 +264,63 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 ![image](https://github.com/user-attachments/assets/c651131c-5aa0-4d8f-8f98-4c7044d51bf0)
 
 - promises
-- async/ await
+  ![image](https://github.com/user-attachments/assets/0f081ca0-31cc-44b7-876b-5b7266ba81ae)
+![image](https://github.com/user-attachments/assets/71ff0582-ac11-4482-8f7a-d28fd608466c)
+![image](https://github.com/user-attachments/assets/2e626944-4b1e-4ef3-b8e1-79c9716edd85)
+
+![image](https://github.com/user-attachments/assets/e059d435-bbed-42cc-9d16-3195c5e5e163)
+![image](https://github.com/user-attachments/assets/d3a98346-d94b-4261-9ebb-876b8ae9d91e)
+
+- async/ await function
+  ![image](https://github.com/user-attachments/assets/f73b480c-0d70-494c-8557-8102b0059f81)
+![image](https://github.com/user-attachments/assets/13ad274e-ee3c-4f9a-92e2-b3e2d9e6dcc2)
+
+Async function:
+![image](https://github.com/user-attachments/assets/933ac7ff-7a84-49bd-a14e-d5854adaa89b)
+![image](https://github.com/user-attachments/assets/1b1f7f26-21cd-425c-a500-4d3103660bd2)
+
+![image](https://github.com/user-attachments/assets/41bb08f5-d301-463e-964b-24dbece7f9d0)
+![image](https://github.com/user-attachments/assets/0ba47a2f-6b82-469d-9709-d7f254d09dd8)
+
 - Axios Library
+![image](https://github.com/user-attachments/assets/64cc9de0-bcce-4cf3-91fe-dc27c4e291c7)
+![image](https://github.com/user-attachments/assets/e6918469-90c9-4296-801f-ae07e23faacb)
+![image](https://github.com/user-attachments/assets/c4828330-a6f2-4622-92ca-04dfc7649cdd)
+
+![image](https://github.com/user-attachments/assets/a1866200-761f-4ef5-bd17-0384a6e77082)
+![image](https://github.com/user-attachments/assets/7702da4d-91c8-452f-ae33-6d363bd123aa)
+
+
+![image](https://github.com/user-attachments/assets/4d8f4eb3-8858-4458-998b-10ea9226d7d4)
+![image](https://github.com/user-attachments/assets/0a195558-af0e-4d2c-b9e3-ac9616005c75)
+
+### Promises, Async/Await, and Axios Requests in Node.js and Express
+![image](https://github.com/user-attachments/assets/15ebbb6e-132f-4f2e-b6c2-54fe96cd04a0)
+
+1. Promises
+![image](https://github.com/user-attachments/assets/78cae285-b32f-4afa-8dcc-9b62e5e6dbe7)
+![image](https://github.com/user-attachments/assets/99a9fd1f-9875-44ae-b181-eb6b5637b9c0)
+![image](https://github.com/user-attachments/assets/45405e91-45e5-4de4-a32e-7e61beac72a7)
+
+2. Async/Await
+![image](https://github.com/user-attachments/assets/82df0715-0298-45bd-bf11-f1e23991bbc1)
+![image](https://github.com/user-attachments/assets/e376fb26-7792-4094-8d94-a710fadd7dc2)
+
+![image](https://github.com/user-attachments/assets/f944d09c-497e-4620-bacd-93792eb7b123)
+![image](https://github.com/user-attachments/assets/7c297bc2-0f70-4df4-a854-ea61d6a5338f)
+
+3. Axios Requests
+![image](https://github.com/user-attachments/assets/1dd3a44d-a171-412f-aeee-b3a4b26696b6)
+
+![image](https://github.com/user-attachments/assets/61551a9b-b46c-4945-a678-d66f35474b80)
+
+![image](https://github.com/user-attachments/assets/1f7af166-85bf-4963-b701-0044fd9b64eb)
+
+![image](https://github.com/user-attachments/assets/edb500b2-adbc-4788-9f68-ffa2e64f128a)
+
+
+
+
 
 
 
