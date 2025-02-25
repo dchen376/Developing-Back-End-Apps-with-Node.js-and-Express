@@ -209,6 +209,41 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 ![image](https://github.com/user-attachments/assets/a1a97ea8-cacf-4ed0-9be2-fb23072e25e9)
 
 ### Expert Viewpoints: Using Anonymous Callback Functions in Node.js
+![image](https://github.com/user-attachments/assets/290843a9-a6ab-49ad-abe8-b68fd8960798)
+![image](https://github.com/user-attachments/assets/44b8c46f-b10e-4d75-b070-80a8066ba954)
+![image](https://github.com/user-attachments/assets/14b921d4-9b96-4cea-98bf-343744fdfdd6)
+![image](https://github.com/user-attachments/assets/edf50d2f-291a-4cea-94b2-b9d3e66734ee)
+
+### Issues with Callbacks
+![image](https://github.com/user-attachments/assets/f50f61f6-673d-4a5e-ac9c-195ce342a604)
+![image](https://github.com/user-attachments/assets/9b6ea552-c296-464d-bc2a-c7b9a5200d96)
+
+![image](https://github.com/user-attachments/assets/f89368ba-0b69-41d4-a37d-093446d2d50a)
+
+![image](https://github.com/user-attachments/assets/983f1619-1e45-4999-8a36-bd1e71caa0ec)
+
+![image](https://github.com/user-attachments/assets/336a75cd-2e56-4701-ab08-7a895bf42b76)
+![image](https://github.com/user-attachments/assets/1d65837c-5e94-4379-b557-cfd0973fd686)
+![image](https://github.com/user-attachments/assets/c32cf5b0-4a4a-4dcb-86b3-ca1dbe128284)
+
+- inversion of control (IoC)
+  ![image](https://github.com/user-attachments/assets/c17eae01-b5f0-462c-a4f8-3786ed426b38)
+![image](https://github.com/user-attachments/assets/289f1a97-bee7-43e5-96a5-d110fbe6d244)
+
+![image](https://github.com/user-attachments/assets/e3354c0e-dfc8-4813-817e-345b95c17c7a)
+
+
+### Promises
+![image](https://github.com/user-attachments/assets/beafb26a-8180-47f5-a4a8-03a0198de54a)
+![image](https://github.com/user-attachments/assets/56b740eb-63c5-4762-83e6-b4259882037d)
+- axios (it returns a promise object)
+  ![image](https://github.com/user-attachments/assets/d9bdb42a-5977-42be-a3da-35bfa05288d2)
+
+![image](https://github.com/user-attachments/assets/8b87a61a-099a-46cd-9bcb-33527f2f5e59)
+
+
+
+
 
 
 
