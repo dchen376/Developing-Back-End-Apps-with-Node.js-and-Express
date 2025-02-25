@@ -251,9 +251,21 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
 - stringify()
 ![image](https://github.com/user-attachments/assets/d535fdc3-3e49-41fd-aab2-613c43d5ad7e)
 
- 
+ ### Expert Viewpoints: Using JSON & JavaScript
+![image](https://github.com/user-attachments/assets/bc1c4a6a-51ec-48c1-afd4-ec17ddf22ccf)
+![image](https://github.com/user-attachments/assets/8a54f18a-0dfa-4add-b3ea-9229047fceb8)
 
+- serialization
+  ![image](https://github.com/user-attachments/assets/2f522937-d897-4e65-8f72-6ca23cfe4332)
 
+![image](https://github.com/user-attachments/assets/442c7579-56c7-4d4d-8908-5edb58bfd9fe)
+
+### Promises, async/await, and axios requests in Node.js and Express
+![image](https://github.com/user-attachments/assets/c651131c-5aa0-4d8f-8f98-4c7044d51bf0)
+
+- promises
+- async/ await
+- Axios Library
 
 
 
