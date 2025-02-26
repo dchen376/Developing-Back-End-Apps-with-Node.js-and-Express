@@ -323,6 +323,9 @@ Async function:
 ## M3 - Express Web Application Framework
 ![image](https://github.com/user-attachments/assets/09289ebb-4aaf-46bd-bf1c-d39c16f81b6e)
 
+### Extending Node.js
+![image](https://github.com/user-attachments/assets/fa7fdb67-cd83-4b9c-8f98-dfda9c921558)
+
 
 
 
