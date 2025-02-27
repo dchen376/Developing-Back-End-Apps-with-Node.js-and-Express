@@ -511,11 +511,61 @@ Async function:
 
 ![image](https://github.com/user-attachments/assets/d99543c7-31b0-4d8b-9d95-9bd334061f10)
 
+### HTTP Methods and REST APIs
+
+Status Code Range	Meaning
+200-299	Everything is OK
+300-399	Resource has moved
+400-499	Client-side error
+500-599	Server-side error
 
 
+REST APIs have the following characteristics:
+
+Resource-based; that is, they describe sets of resources
+Only contain nouns, not verbs
+Use singular nouns when referring to a singular resource or plural nouns when referring to a collection of resources
+Always identified by URLs
+NOT RESTful APIs	RESTful equivalents
+GET http://api.myapp.com/getUser/123	GET http://api.myapp.com/users/123
+POST http://api.myapp.com/addUser	POST http://api.myapp.com/users
+GET http://api.myapp.com/removeUser/123	DELETE http://api.myapp.com/users/123
 
 
+### Express Best Practices
+![image](https://github.com/user-attachments/assets/b016d781-351c-42f1-adad-7216e4667bce)
+![image](https://github.com/user-attachments/assets/4b3249a8-3779-4f63-9249-06059bea93cf)
 
+![image](https://github.com/user-attachments/assets/3355717a-cd96-4c79-a5ad-5b38643fa73a)
+![image](https://github.com/user-attachments/assets/4ae028b5-b13c-4d24-af33-0968708c42ba)
+![image](https://github.com/user-attachments/assets/012187f2-e171-42a4-8fb6-1e43f40db145)
+![image](https://github.com/user-attachments/assets/4ed82b21-9797-47c5-98b6-84e9b8ce6f1b)
+![image](https://github.com/user-attachments/assets/ca199be6-c190-4619-99ce-5459b65069ed)
+![image](https://github.com/user-attachments/assets/7552de4a-1ec6-4f71-b3cb-8af920d18267)
+![image](https://github.com/user-attachments/assets/e65535a6-dbb5-4a55-89fb-5e0621b401f1)
+
+![image](https://github.com/user-attachments/assets/e639bd8e-ffe8-4940-b126-687ba655993e)
+![image](https://github.com/user-attachments/assets/d522e474-1809-46f5-a430-8e70db466213)
+![image](https://github.com/user-attachments/assets/9c4a2e43-956b-4f3d-8e71-1c26ae22dd36)
+
+![image](https://github.com/user-attachments/assets/cda092a0-e8e1-46d4-8b4f-5f924722e725)
+
+![image](https://github.com/user-attachments/assets/2bcb4ac7-aba0-4a56-b9a7-f45f20806a23)
+
+![image](https://github.com/user-attachments/assets/3e8211fa-8edd-4be6-9cd7-b5771f417883)
+
+-Mocha  (super test)
+![image](https://github.com/user-attachments/assets/734cf1c6-3719-4088-9a74-942b849ec598)
+
+![image](https://github.com/user-attachments/assets/1fac7d56-27a5-4f79-b47f-e85f21836b82)
+
+![image](https://github.com/user-attachments/assets/be85b19e-5c63-42a8-91b0-863582441a5b)
+
+![image](https://github.com/user-attachments/assets/3a04988c-4960-4826-bab6-22897569de6e)
+
+![image](https://github.com/user-attachments/assets/43451507-7e9e-4f5d-9e63-743577e1cea2)
+
+![image](https://github.com/user-attachments/assets/0faf187e-415d-408f-8d7b-71935196de8a)
 
 
 
