@@ -494,6 +494,27 @@ Async function:
 
 ![image](https://github.com/user-attachments/assets/310d7920-82d1-4958-b665-0c82e48863f8)
 
+### Welcome to Authentication and Authorization in Node.js
+#### Session-based
+![image](https://github.com/user-attachments/assets/860f45e4-9290-4818-833f-953391b34e61)
+![image](https://github.com/user-attachments/assets/406b08d4-58df-4da2-8ff8-514c1dd45192)
+![image](https://github.com/user-attachments/assets/284d1b02-9a8e-40db-941d-2bfa4233d3ec)
+
+#### Token-based
+![image](https://github.com/user-attachments/assets/272eaafb-bfe7-4285-8143-54613ad0c198)
+![image](https://github.com/user-attachments/assets/ec517cbe-f6a4-4cf9-96b6-ec8174ff6d61)
+![image](https://github.com/user-attachments/assets/375af9ce-1e4a-4a65-9cf4-0b5afb5b1fed)
+![image](https://github.com/user-attachments/assets/0059ef24-cbaf-404c-a9cc-5f0419af0edc)
+
+
+#### Passwordless
+![image](https://github.com/user-attachments/assets/57938994-1f68-4787-9fad-e0e7ed148c6c)
+![image](https://github.com/user-attachments/assets/908e3960-021c-4fe8-8737-30b5a2f616d1)
+![image](https://github.com/user-attachments/assets/9fd49987-f874-4683-8e08-e76ab926b33a)
+
+![image](https://github.com/user-attachments/assets/d3a108e7-5e9a-4a0d-aa17-bc0c7ddc5639)
+
+
 ### Authentication in Node JS
 ![image](https://github.com/user-attachments/assets/03776a7d-ac88-40db-9511-25bd7430a12a)
 
