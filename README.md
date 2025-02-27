@@ -494,6 +494,31 @@ Async function:
 
 ![image](https://github.com/user-attachments/assets/310d7920-82d1-4958-b665-0c82e48863f8)
 
+### Authentication in Node JS
+![image](https://github.com/user-attachments/assets/03776a7d-ac88-40db-9511-25bd7430a12a)
+
+![image](https://github.com/user-attachments/assets/4fa88dee-4963-474d-a5fe-94865d095eb8)
+![image](https://github.com/user-attachments/assets/6708b721-34d2-44c2-a868-4dc649e69ce3)
+
+- token-based
+  ![image](https://github.com/user-attachments/assets/311b8970-e09b-423d-8844-0f73fdf4bfaa)
+
+![image](https://github.com/user-attachments/assets/7719e9f0-4a21-40f0-9e34-b660f353f96e)
+![image](https://github.com/user-attachments/assets/3a10a09b-9799-4ba0-98d3-fa8812219705)
+![image](https://github.com/user-attachments/assets/f8b83299-5692-4987-b449-a315786cf4d5)
+
+![image](https://github.com/user-attachments/assets/b3701df6-17d3-4c14-a3cd-932d0cc3f8aa)
+
+![image](https://github.com/user-attachments/assets/d99543c7-31b0-4d8b-9d95-9bd334061f10)
+
+
+
+
+
+
+
+
+
 
 
 ## M4 - Final Project
