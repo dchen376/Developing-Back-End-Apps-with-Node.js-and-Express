@@ -424,8 +424,75 @@ Async function:
 
 ![image](https://github.com/user-attachments/assets/caf1b4a6-ce87-4e20-8fb8-a8642dd2101d)
 
+### Introduction to Middleware & Routers
+- middleware
+![image](https://github.com/user-attachments/assets/21223613-56e3-48b0-84af-7bf46e17a42d)
+![image](https://github.com/user-attachments/assets/f08ce1e5-eeb3-4fe3-b8d2-83000e013a56)
 
+- router functions
+  ![image](https://github.com/user-attachments/assets/2527b9cc-c966-4582-8ede-e2da23b4d659)
+(also doing Encrypting and Decrypting data!)
+  
+### Routing, Middleware, and Templating
+![image](https://github.com/user-attachments/assets/e7733212-1203-4d8f-83a8-c528de2e2b87)
 
+- Routing
+  ![image](https://github.com/user-attachments/assets/7abe3d80-76e9-466a-ac86-580ab36d716a)
+  
+![image](https://github.com/user-attachments/assets/280fc1f8-1144-4071-abb5-3bbb9fe15d36)
+
+![image](https://github.com/user-attachments/assets/bc8400fb-acdc-4dc7-8417-5e0d234b3f71)
+
+- Middleware
+![image](https://github.com/user-attachments/assets/be8195a1-eb31-41a7-b8da-99ec514cb8d7)
+
+![image](https://github.com/user-attachments/assets/149782b3-c916-4c70-8285-707a10989bb8)
+
+![image](https://github.com/user-attachments/assets/eb7a0866-e111-4af4-9fee-64a7e0bdea1b)
+
+![image](https://github.com/user-attachments/assets/8c83ef29-49d8-4c66-887e-bd39e0f2e4cb)
+
+![image](https://github.com/user-attachments/assets/51f4ba03-58cf-4e04-b746-2f329b245f30)
+
+![image](https://github.com/user-attachments/assets/799cbf77-6cbc-4081-b749-8c8cf475a070)
+
+- template rendering
+  ![image](https://github.com/user-attachments/assets/8a46dd06-e156-4ce3-a7de-75b67c810add)
+
+![image](https://github.com/user-attachments/assets/a0bade56-dd1d-4598-a3ac-48c4cde8d891)
+
+### Authentication and Authorization in Node.js
+![image](https://github.com/user-attachments/assets/b49b8898-3f19-4480-a42d-da56aa481369)
+![image](https://github.com/user-attachments/assets/231d1207-c46e-4047-a305-920e249109a5)
+
+- authentication
+  ![image](https://github.com/user-attachments/assets/2bbb9e9a-9f1d-45fd-86e7-c9ba1b4288ab)
+![image](https://github.com/user-attachments/assets/c7e71aeb-e16a-489e-8c04-dd6687a04036)
+
+![image](https://github.com/user-attachments/assets/de362e6c-102a-4353-8466-ee606863fdf9)
+![image](https://github.com/user-attachments/assets/1371e91e-45da-4878-a733-f162aff48bc0)
+
+![image](https://github.com/user-attachments/assets/e5ae6538-abe1-41cc-b126-f31630615861)
+![image](https://github.com/user-attachments/assets/49ef2e65-8324-4f34-aed1-2556b1f02bf8)
+![image](https://github.com/user-attachments/assets/7e5ee497-44e2-411b-8877-6260914f67e5)
+
+![image](https://github.com/user-attachments/assets/bfc863ab-07ea-4cd8-92ba-e3b5946d93f1)
+![image](https://github.com/user-attachments/assets/b238573d-ac9c-4d1b-8e05-4c48ce980a5a)
+![image](https://github.com/user-attachments/assets/9f64309a-9d61-46f8-b564-8ce93685658b)
+
+![image](https://github.com/user-attachments/assets/ab27bec1-99ea-4b0d-8064-a9195b2a320b)
+![image](https://github.com/user-attachments/assets/9be11c70-2b4b-43c3-8443-c94b81e27bc6)
+![image](https://github.com/user-attachments/assets/2bd518a3-4be2-4d1d-924c-b7f0de17e7c3)
+
+- passwordless authentication
+  ![image](https://github.com/user-attachments/assets/e3030f78-e85e-41d3-84be-f1b5d64c731a)
+![image](https://github.com/user-attachments/assets/a7d618b8-98af-46b2-80ab-0273307a290d)
+![image](https://github.com/user-attachments/assets/62e6f8d0-654f-4a00-a66b-0247371cb890)
+![image](https://github.com/user-attachments/assets/d333db8c-e652-4fe1-a8ab-45c00f45e8ac)
+![image](https://github.com/user-attachments/assets/f40220fb-2fef-4656-a549-0085f511d721)
+![image](https://github.com/user-attachments/assets/03d0e27a-143c-47e0-84e4-09cc62b1a1a0)
+
+![image](https://github.com/user-attachments/assets/310d7920-82d1-4958-b665-0c82e48863f8)
 
 
 
