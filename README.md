@@ -325,6 +325,83 @@ Async function:
 
 ### Extending Node.js
 ![image](https://github.com/user-attachments/assets/fa7fdb67-cd83-4b9c-8f98-dfda9c921558)
+![image](https://github.com/user-attachments/assets/98590034-822b-433b-a06d-08e045d2f849)
+
+![image](https://github.com/user-attachments/assets/fbadce5d-7715-4709-9c1f-dd0424a6d94e)
+![image](https://github.com/user-attachments/assets/351d9910-29b8-4e1c-bfe4-8847f906c48a)
+
+- xml2js
+  ![image](https://github.com/user-attachments/assets/d9417acf-15a0-4b24-8817-460cb1c8785d)
+![image](https://github.com/user-attachments/assets/14705bd6-3bf1-4c54-ba07-1933c37d51d1)
+![image](https://github.com/user-attachments/assets/a67e80ca-dfbe-4526-b1b2-57a34ec62f30)
+
+![image](https://github.com/user-attachments/assets/c2c547b5-1d84-4c2f-8bc0-c465c8738220)
+
+
+### Expert Viewpoints: Working with Third-Party Node.js Extensions
+![image](https://github.com/user-attachments/assets/6b6eaba3-e299-40ca-a97b-0a3188e95111)
+
+-lodash, axios, JWT 
+![image](https://github.com/user-attachments/assets/77beb433-3859-4429-be3f-b4b5d608dcfb)
+
+![image](https://github.com/user-attachments/assets/37ea731d-24d5-4f8d-83cc-a7e1a3caebca)
+- axios (callbacks), NPM
+![image](https://github.com/user-attachments/assets/8d029d9a-efcf-4a7e-81c4-d9b17b1f9795)
+
+### Introduction to Web Frameworks
+![image](https://github.com/user-attachments/assets/a8a3837b-8212-466d-93ec-d88bb1505302)
+
+-runtime environments
+![image](https://github.com/user-attachments/assets/70f832e6-944c-4446-a6ec-6fc8776cbfe4)
+
+-node framework
+![image](https://github.com/user-attachments/assets/edc2089d-e7c1-4347-92fc-2364c670b2aa)
+
+- MVC
+  ![image](https://github.com/user-attachments/assets/de7d9a12-c088-4ec5-80e6-efa35546d79d)
+![image](https://github.com/user-attachments/assets/074601b4-b31e-446f-9785-e0ecf886f691)
+
+- REST API
+  ![image](https://github.com/user-attachments/assets/4f5273fa-6965-4f5d-8118-9f49de11096d)
+![image](https://github.com/user-attachments/assets/f6837bac-07b6-4752-b7b8-0d7df1894785)
+(RESTful API)
+
+- EXpress.js
+  ![image](https://github.com/user-attachments/assets/3a034d8e-76d4-458d-b1a5-31c3c5b09227)
+![image](https://github.com/user-attachments/assets/9a9d5dc0-792d-43a9-a46c-bc220a848247)
+
+- Koa
+  ![image](https://github.com/user-attachments/assets/05be8535-ede1-4a9e-9d42-a651e3c9ddd6)
+
+- Socket.io
+  ![image](https://github.com/user-attachments/assets/f9cce10f-1c9d-4845-b2d1-13167d4c8c9a)
+
+- Hapi.js
+  ![image](https://github.com/user-attachments/assets/4baa1b80-19ee-4a4f-b07f-ba4926a8deb7)
+
+- NestJS
+  ![image](https://github.com/user-attachments/assets/5a536ce3-2fdd-49bf-a928-f2fb6645e95d)
+
+### Express Web Application Framework
+![image](https://github.com/user-attachments/assets/328ff5be-06a6-4334-9368-f6a869b5b2d1)
+![image](https://github.com/user-attachments/assets/b1b6e5dc-f50b-4bac-9cfb-bcb173b27fc7)
+
+![image](https://github.com/user-attachments/assets/a291d2b4-5d63-45f7-83b1-d0775fe0e31e)
+![image](https://github.com/user-attachments/assets/fd1d418f-28c5-459a-9c38-160d62ba4844)
+![image](https://github.com/user-attachments/assets/f595bde3-0a6a-418c-bf0e-fb2bb9011e13)
+
+![image](https://github.com/user-attachments/assets/accf5357-3f5d-432f-9fdf-59b22aad16cf)
+
+![image](https://github.com/user-attachments/assets/a6de3b14-8a26-43f7-86c3-eef6ac4ff124)
+
+![image](https://github.com/user-attachments/assets/111be975-a254-4270-ad04-3bddc5791413)
+![image](https://github.com/user-attachments/assets/23292fb3-1671-4764-a017-7ef86cc2fdb0)
+
+![image](https://github.com/user-attachments/assets/67b778df-5c44-4c81-8191-326935ef2c14)
+![image](https://github.com/user-attachments/assets/b11ea790-d339-4808-bc2c-5b09608e79a7)
+![image](https://github.com/user-attachments/assets/ba9b53e2-f58c-4541-998c-3f533f14ca65)
+
+![image](https://github.com/user-attachments/assets/39c1c942-0985-402f-9352-493e498fef15)
 
 
 
