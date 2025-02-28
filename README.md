@@ -592,6 +592,6 @@ GET http://api.myapp.com/removeUser/123	DELETE http://api.myapp.com/users/123
 ### lab: CRUD operations with Node.js and Express
 
 - postman *
-
+- nodemon *
 
 ## M4 - Final Project
