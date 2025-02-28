@@ -589,7 +589,9 @@ GET http://api.myapp.com/removeUser/123	DELETE http://api.myapp.com/users/123
 ![image](https://github.com/user-attachments/assets/0faf187e-415d-408f-8d7b-71935196de8a)
 
 
+### lab: CRUD operations with Node.js and Express
 
+- postman *
 
 
 ## M4 - Final Project
